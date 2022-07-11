@@ -1,24 +1,14 @@
 ### My name is Krystian. Welcome to my profile! 👋
 
-<!--
-**GreysonKrystian/GreysonKrystian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me:
-    https://www.facebook.com/krystian.grela08/
-- ⚡ Fun fact: ...
--->
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=greysonkrystian.greysonkrystian)
 
 #### 📫 How to reach me:
-    https://www.facebook.com/krystian.grela08/
+    
+<a href="https://discordapp.com/users/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/krystian-grela-4a10761ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16853329" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
+<a href="https://www.facebook.com/krystian.grela08/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
     
 #### 🌱🔭 I’m currently learning and coding with:
 
@@ -37,7 +27,7 @@ Here are some ideas to get you started:
 <p align="center">
    <a href="#">
     <img src="Icons/svg/dev/frameworks/bootstrap.svg" alt="bootstrap badge" style="horizontal-align:left margin:6px 4px">
-    <img src="Icons/svg/dev/frameworks/wpf.svg" alt="python badge" style="horizontal-align:left margin:6px 4px">
+    <img src="Icons/svg/dev/frameworks/wpf.svg" alt="wpf badge" style="horizontal-align:left margin:6px 4px">
     <br>
     <img src="Icons/svg/dev/tools/visualstudio.svg" alt="visualstudio badge" style="horizontal-align:left margin:6px 4px">
     <img src="Icons/svg/dev/tools/jetbrains_pycharm.svg" alt="pycharm badge" style="horizontal-align:left margin:6px 4px">
@@ -47,11 +37,16 @@ Here are some ideas to get you started:
 </p>
     
 ##### I am keen on solving programming challenges on codewars:
+<p align="left">
+   <a href="#">
+       <img src="Icons/svg/dev/services/codewars.svg" alt="codewars badge">
+   </a>  
+</p>
+
 
 ![image](https://www.codewars.com/users/GreysonKrystian/badges/large)
 
 
-<img src="Icons/svg/dev/services/codewars.svg" alt="codewars badge">
 
 
 
