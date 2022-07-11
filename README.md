@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 #### 🌱 I’m currently learning and code with:
 <p align="center">
    <a href="#">
-    <img src="help/badge1.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+    <img src="Icons/svg/dev/languages/csharp_dotnet.svg" alt="csharp_dotnet badge" style="vertical-align:top margin:6px 4px">
    </a>  
 </p>
