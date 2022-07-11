@@ -1,4 +1,4 @@
-### Hi there 👋
+### My name is Krystian. Welcome to my profile! 👋
 
 <!--
 **GreysonKrystian/GreysonKrystian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,3 +26,5 @@ Here are some ideas to get you started:
     <img src="Icons/svg/dev/languages/csharp_dotnet.svg" alt="csharp_dotnet badge" style="vertical-align:top margin:6px 4px">
    </a>  
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
