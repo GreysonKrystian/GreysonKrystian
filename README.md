@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=greysonkrystian.greysonkrystian)
 
 #### 📫 How to reach me:
     https://www.facebook.com/krystian.grela08/
     
-#### 🌱 I’m currently learning and code with:
+#### 🌱🔭 I’m currently learning and coding with:
 <p align="center">
    <a href="#">
     <img src="Icons/svg/dev/languages/csharp_dotnet.svg" alt="csharp_dotnet badge" style="vertical-align:top margin:6px 4px">
