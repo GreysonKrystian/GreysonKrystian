@@ -27,4 +27,8 @@ Here are some ideas to get you started:
    </a>  
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GreysonKrystian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GreysonKrystian&exclude_repo=Solitaire)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GreysonKrystian)](https://github.com/anuraghazra/github-readme-stats)
+
+
