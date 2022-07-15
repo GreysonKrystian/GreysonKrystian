@@ -15,6 +15,7 @@
 <p align="center">
    <a href="#">
     <img src="Icons/svg/dev/languages/csharp_dotnet.svg" alt="csharp_dotnet badge" style="horizontal-align:left margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/cpp.svg" alt="cpp badge" style="horizontal-align:left margin:6px 4px" height="30" width="40">
     <img src="Icons/svg/dev/languages/python.svg" alt="python badge" style="horizontal-align:left margin:6px 4px">
     <br>
     <img src="Icons/svg/dev/languages/html.svg" alt="python badge" style="horizontal-align:left margin:6px 4px">
@@ -52,8 +53,6 @@
 
 
 #### My Github statistics:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GreysonKrystian&exclude_repo=Solitaire)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GreysonKrystian)](https://github.com/anuraghazra/github-readme-stats)
 
