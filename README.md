@@ -5,12 +5,11 @@
 
 #### 📫 How to reach me:
     
-<a href="https://discordapp.com/users/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/285022111976914945" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/krystian-grela-4a10761ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16853329" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
 <a href="https://www.facebook.com/krystian.grela08/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
     
-#### 🌱🔭 I’m currently learning and coding with:
+#### 🌱🔭 I’m currently learning and using:
 
 <p align="center">
    <a href="#">
@@ -47,8 +46,9 @@
 
 ![image](https://www.codewars.com/users/GreysonKrystian/badges/large)
 
+#### Sometimes i solve tasks on LeetCode:
 
-
+![](https://leetcard.jacoblin.cool/GreysonKrystian?theme=light,unicorn)
 
 
 
