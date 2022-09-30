@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/krystian-grela-4a10761ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://www.facebook.com/krystian.grela08/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
     
-#### 🌱🔭 I’m currently learning and using:
+#### 🔭 I’m currently using:
 
 <p align="center">
    <a href="#">
@@ -21,6 +21,15 @@
     <img src="Icons/svg/dev/languages/css3.svg" alt="python badge" style="horizontal-align:left margin:6px 4px">
    </a>  
 </p>
+
+#### 🌱 I want to learn:
+
+<p align="center">
+    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/javascript.svg" alt="js badge">
+    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/angularjs.svg" alt="js badge">
+</p>
+
+
 
 #### 🖥📱 Frameworks and technologies:
 
