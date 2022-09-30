@@ -25,8 +25,8 @@
 #### 🌱 I want to learn:
 
 <p align="center">
-    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/javascript.svg" alt="js badge">
-    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/angularjs.svg" alt="js badge">
+    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/javascript.svg" alt="js badge" style="horizontal-align:left margin:6px 4px" height="30" width="40">
+    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/angularjs.svg" alt="js badge" style="horizontal-align:left margin:6px 4px" height="30" width="40">
 </p>
 
 
