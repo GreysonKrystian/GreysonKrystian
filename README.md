@@ -46,14 +46,15 @@
 </p>
     
 ##### I am keen on solving programming challenges on codewars:
-<p align="left">
-   <a href="#">
+<p align="center">
+   <a href="https://www.codewars.com/">
        <img src="Icons/svg/dev/services/codewars.svg" alt="codewars badge">
    </a>  
 </p>
+<p align = "center">
+       <img src="https://www.codewars.com/users/GreysonKrystian/badges/large" alt="codewars badge">
+</p>
 
-
-![image](https://www.codewars.com/users/GreysonKrystian/badges/large)
 
 #### Sometimes i solve tasks on LeetCode:
 
