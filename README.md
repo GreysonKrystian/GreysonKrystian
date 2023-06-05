@@ -1,8 +1,6 @@
 ### My name is Krystian. Welcome to my profile! 👋
 
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=greysonkrystian.greysonkrystian)
-
 #### 📫 How to reach me:
     
 <a href="https://discordapp.com/users/285022111976914945" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gautamkrishnar" height="30" width="40" /></a>
