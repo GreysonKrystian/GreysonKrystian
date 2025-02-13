@@ -1,67 +1,58 @@
 ### My name is Krystian. Welcome to my profile! 👋
 
-
 #### 📫 How to reach me:
-    
-<a href="https://discordapp.com/users/285022111976914945" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/krystian-grela-4a10761ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://www.facebook.com/krystian.grela08/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
-    
-#### 🔭 I’m currently using:
+<a href="https://discordapp.com/users/285022111976914945" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+</a>
+<a href="https://www.linkedin.com/in/krystian-grela-4a10761ba/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="https://www.facebook.com/krystian.grela08/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+</a>
 
+#### 🔭 I’m currently using:
 <p align="center">
-   <a href="#">
-    <img src="Icons/svg/dev/languages/csharp_dotnet.svg" alt="csharp_dotnet badge" style="horizontal-align:left margin:6px 4px">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/cpp.svg" alt="cpp badge" style="horizontal-align:left margin:6px 4px" height="30" width="40">
-    <img src="Icons/svg/dev/languages/python.svg" alt="python badge" style="horizontal-align:left margin:6px 4px">
-    <br>
-    <img src="Icons/svg/dev/languages/html.svg" alt="python badge" style="horizontal-align:left margin:6px 4px">
-    <img src="Icons/svg/dev/languages/css3.svg" alt="python badge" style="horizontal-align:left margin:6px 4px">
-   </a>  
+  <!-- Programming Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" style="margin: 6px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin: 6px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="margin: 6px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="margin: 6px;">
+    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/typescript.svg" alt="TS" width="40" height="40" style="margin: 6px;">
+  <br>
+  <!-- Cloud & DevOps -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40" style="margin: 6px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" alt="Azure Pipelines" width="40" height="40" style="margin: 6px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin: 6px;">
+  <br>
+  <!-- Containerisation & Orchestration -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="margin: 6px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40" style="margin: 6px;">
+  <br>
+  <!-- CI/CD & Infrastructure as Code -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40" style="margin: 6px;">
+  <br>
+  <!-- Other -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL" width="40" height="40" style="margin: 6px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40" style="margin: 6px;">
+  <img src="https://cdn.worldvectorlogo.com/logos/sonarqube-1.svg" alt="SonarQube" width="40" height="40" style="margin: 6px;">
 </p>
 
 #### 🌱 I want to learn:
-
 <p align="center">
-    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/javascript.svg" alt="js badge" style="horizontal-align:left margin:6px 4px" height="30" width="40">
-    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/angularjs.svg" alt="js badge" style="horizontal-align:left margin:6px 4px" height="30" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch" width="40" height="40" style="margin: 6px;">
+  <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" alt="Logstash" width="40" height="40" style="margin: 6px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" alt="Kibana" width="40" height="40" style="margin: 6px;">
 </p>
 
-
-
-#### 🖥📱 Frameworks and technologies:
-
+#### 🏆 I am keen on solving programming challenges on Codewars:
 <p align="center">
-   <a href="#">
-    <img src="Icons/svg/dev/frameworks/bootstrap.svg" alt="bootstrap badge" style="horizontal-align:left margin:6px 4px">
-    <img src="Icons/svg/dev/frameworks/wpf.svg" alt="wpf badge" style="horizontal-align:left margin:6px 4px">
-    <br>
-    <img src="Icons/svg/dev/tools/visualstudio.svg" alt="visualstudio badge" style="horizontal-align:left margin:6px 4px">
-    <img src="Icons/svg/dev/tools/jetbrains_pycharm.svg" alt="pycharm badge" style="horizontal-align:left margin:6px 4px">
-    <img src="Icons/svg/dev/tools/jetbrains_datagrip.svg" alt="datagrip badge" style="horizontal-align:left margin:6px 4px">
-
-   </a>  
+  <a href="https://www.codewars.com/">
+    <img src="https://www.codewars.com/users/GreysonKrystian/badges/large" alt="Codewars badges" style="margin: 6px;">
+  </a>
 </p>
-    
-##### I am keen on solving programming challenges on codewars:
+
+#### Sometimes I solve tasks on LeetCode:
 <p align="center">
-   <a href="https://www.codewars.com/">
-       <img src="Icons/svg/dev/services/codewars.svg" alt="codewars badge">
-   </a>  
+  <img src="https://leetcard.jacoblin.cool/GreysonKrystian?theme=light,unicorn" alt="LeetCode" style="margin: 6px;">
 </p>
-<p align = "center">
-       <img src="https://www.codewars.com/users/GreysonKrystian/badges/large" alt="codewars badge">
-</p>
-
-
-#### Sometimes i solve tasks on LeetCode:
-
-![](https://leetcard.jacoblin.cool/GreysonKrystian?theme=light,unicorn)
-
-
-
-#### My Github statistics:
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GreysonKrystian)](https://github.com/anuraghazra/github-readme-stats)
-
-
